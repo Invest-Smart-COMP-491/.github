@@ -9,3 +9,6 @@ The website, on the other hand, serves as a promotional tool for the mobile app,
 The project is an end-to-end software product development that includes the development of the front-end, back-end, database and server. The front-end is designed to provide a user-friendly interface that makes it easy for investors to access and interact with the platform's features and data. The back-end is responsible for managing requests from mobile applications and websites, as well as handling the asynchronous gathering of stock prices and news.  The database stores the data and makes it available to the back-end. The server-side also ensures that all processes are continuously active, rather than running solely on a local computer.
 
 Overall, the goal of the InvestSmart project is to provide investors with a powerful and intuitive platform that makes it easy for them to track and analyze the market, and make informed investment decisions.
+
+
+[Project Report](https://github.com/Invest-Smart-COMP-491/.github/blob/main/COMP491_InvestSmart_FinalReport.docx.pdf)
